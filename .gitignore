@@ -1,0 +1,10 @@
+.idea
+db.sqlite3
+shop/migrations
+products/migrations
+checker/migrations
+shop/__pycache__
+products/__pycache__
+checker/__pycache__
+.env
+venv
